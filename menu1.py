@@ -1,5 +1,3 @@
-#from persona import Persona, EstadoHospitalario
-
 # Creamos una lista vacía para almacenar las personas
 from ej1 import EstadoHospitalario, Persona
 
